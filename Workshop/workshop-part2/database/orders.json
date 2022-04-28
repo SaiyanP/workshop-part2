@@ -1,0 +1,27 @@
+[
+    {
+        "id": "67174f7c-c70f-11ec-9d64-0242ac120002",
+        "name": "Pizza",
+        "price": 50
+    },
+    {
+        "id": "67174e32-c70f-11ec-9d64-0242ac120002",
+        "name": "Chicken Parma",
+        "price": 120   
+    },
+    {
+        "id": "67174cac-c70f-11ec-9d64-0242ac120002",
+        "name": "Chicken Burrito",
+        "price": 50
+    },
+    {
+        "id": "671750b2-c70f-11ec-9d64-0242ac120002",
+        "name": "Cezar Salad",
+        "price": 70
+    },
+    {
+        "id": "67174a54-c70f-11ec-9d64-0242ac120002",
+        "name": "Salmon Fish",
+        "price": 150
+    }
+]

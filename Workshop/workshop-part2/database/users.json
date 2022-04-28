@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Vladimir",
+    "lastName": "Golaboski",
+    "age": 19,
+    "email": "v.golaboski@yahoo.com",
+    "password": "$2a$11$u9Y4oe6nw9rNOc2IuNMwr.4aggkDIsy4BtkNMQFVMDOhsN0/Pgh.q",
+    "id": "5fda7b35-9f30-46cd-8922-121ed14cba5d"
+  },
+  {
+    "firstName": "Petar",
+    "lastName": "Cakareski",
+    "age": 19,
+    "email": "p.cakareski@yahoo.com",
+    "password": "$2a$11$Ehwo1CO9q3YrPIjKGUokiufEwMuKJxjdOizrql6mm/QUjK22bJXQi",
+    "id": "e112bd22-e162-44e9-be1c-b865d90f8e16"
+  },
+  {
+    "firstName": "Andres Manuel",
+    "lastName": "Read Petkoski",
+    "age": 18,
+    "email": "andres.read@yahoo.com",
+    "password": "$2a$11$5EhXaGroG5yzmke5b/YRIO63ihEydnVSPUR/qKxQLMyh.HeUHupqS",
+    "id": "da497135-334d-49cd-ae86-6f22d95cbbc4"
+  }
+]
